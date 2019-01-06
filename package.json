@@ -1,0 +1,14 @@
+{
+  "name": "cpu-monitor",
+  "version": "1.0.0",
+  "description": "Electron app that monitors cpu usage",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Michael Joy",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.0.1"
+  }
+}
